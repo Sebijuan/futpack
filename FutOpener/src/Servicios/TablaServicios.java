@@ -4,7 +4,7 @@
  */
 package Servicios;
 
-import Beans.Coleccioncartas;
+
 import Beans.Jugador;
 import Beans.Usuario;
 import static Servicios.Basedatos.CerrarConexion;
